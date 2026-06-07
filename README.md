@@ -26,8 +26,8 @@ Estudante de Engenharia de Software na UNIFSA, com estudos direcionados à Ciên
 
 <br>
 
-> *“It is not death that a man should fear, but he should fear never beginning to live.”*  
-> — Marcus Aurelius
+> *“Keep Moving Forward.”*  
+> — Walt Disney
 
 <hr align="left" width="75%">
 
