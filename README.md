@@ -6,7 +6,7 @@
 
 <h3>✦ E aí! Eu sou o Neves</h3>
 
-Estudante de Engenharia de Software (UNIFSA) com foco em Ciência de Dados. Estudo Python, estatística, bancos de dados, visualização e Machine Learning para criar soluções escaláveis orientadas por dados.
+Estudante de Engenharia de Software na UNIFSA, com foco em Ciência de Dados. Tenho interesse em construir soluções inteligentes, escaláveis e orientadas por dados, combinando engenharia de software e análise para transformar dados em decisões. Venho me aprofundando em Python, estatística, bancos de dados, visualização de dados e Machine Learning, e busco aplicar esses conhecimentos em projetos práticos.
 
 <br>
 
